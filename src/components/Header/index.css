@@ -1,0 +1,28 @@
+.nav-menu {
+  padding-left: 0;
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  width: 25%;
+}
+
+.nav-link {
+  color: #12022f;
+  font-size: 22px;
+  font-weight: 600;
+  font-family: 'Roboto';
+  text-decoration-line: none;
+}
+
+@media (max-width: 768px) {
+  .nav-menu {
+    display: flex;
+    justify-content: space-between;
+    width: 65%;
+  }
+
+  .nav-link {
+    font-size: 20px;
+    margin-right: 4px;
+  }
+}

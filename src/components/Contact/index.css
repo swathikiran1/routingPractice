@@ -1,0 +1,12 @@
+.contact-image {
+  height: 200px;
+  width: 200px;
+}
+
+.contact {
+  text-align: center;
+  color: #551e53;
+  font-size: 40px;
+  font-weight: 600;
+  font-family: 'Roboto';
+}

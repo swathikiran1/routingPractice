@@ -1,0 +1,12 @@
+.not-found-image {
+  height: 320px;
+  width: 320px;
+}
+
+.not-found {
+  text-align: center;
+  color: #551e53;
+  font-size: 40px;
+  font-weight: 600;
+  font-family: 'Roboto';
+}
